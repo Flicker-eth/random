@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana ,sans-serif;
+   
+}
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+    background-color: #c7e6eb;
+  
+   padding-top: 80px;
+   position: relative;
+ 
+  
+  
+  
+  
+}
+.top-container h1{
+    font-family: 'Sacramento', cursive;
+}
+.birds{
+    position: absolute;
+    top: 5px;
+    right: 150px;
+    width: 150px;
+}
+.birds2{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    width: 150px;
+}
+.rahul1{
+    position: absolute;
+    top: 226px;
+    left: 595px;
+    width: 250px;
+}
+
+.middel-contanier {
+  
+}
+.bottom-contanier {
+
+}
+.last{
+    text-align:  center;
+}
